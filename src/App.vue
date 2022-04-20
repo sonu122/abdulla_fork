@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Main Hooon Don"/>
+  <h2>some</h2>
 </template>
 
 <script>
